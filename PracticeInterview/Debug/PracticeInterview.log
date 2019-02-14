@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(36): warning C4018: '<': signed/unsigned mismatch
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(67): warning C4018: '<': signed/unsigned mismatch
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(189): warning C4018: '<': signed/unsigned mismatch
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(215): warning C4018: '<': signed/unsigned mismatch
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(229): warning C4018: '<': signed/unsigned mismatch
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(257): warning C4018: '<': signed/unsigned mismatch
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(383): warning C4018: '<': signed/unsigned mismatch
+d:\otherdocuments\visualstudio\practiceinterview\practiceinterview\source.cpp(385): warning C4018: '<': signed/unsigned mismatch
+  PracticeInterview.vcxproj -> D:\OtherDocuments\VisualStudio\PracticeInterview\Debug\PracticeInterview.exe
